@@ -1,6 +1,8 @@
 * Penger Animation
   "Who would have thought that rotating pengers is a great way of learning 3D graphics?"
 
+  [[./figs/penger.png]]
+
   Based on the following amazing exercise on 3D graphics:
 
   - [[https://github.com/tsoding/formula?tab=readme-ov-file]]
