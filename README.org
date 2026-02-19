@@ -1,0 +1,11 @@
+* Penger Animation
+  "Who would have thought that rotating pengers is a great way of learning 3D graphics?"
+
+  Based on the following amazing exercise on 3D graphics:
+
+  - [[https://github.com/tsoding/formula?tab=readme-ov-file]]
+
+  but in Lua since I also wanted to learn it for my C shenanigans later on.
+
+** Dependencies
+   Love2D [[https://love2d.org/]].
